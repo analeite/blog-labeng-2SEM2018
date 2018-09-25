@@ -3,3 +3,10 @@
     Author     : Ana Beatriz Araujo
 */
 
+.img-title{
+    width: 100%;    /* largura da imagem */
+    height: 450px;   /*  altura da imagem  */
+    margin-top: -10px; /* margem do topo */
+    filter: brightness(50%);
+}
+
