@@ -5,8 +5,24 @@
 
 .img-title{
     width: 100%;    /* largura da imagem */
-    height: 450px;   /*  altura da imagem  */
+    height: 350px;   /*  altura da imagem  */
     margin-top: -10px; /* margem do topo */
-    filter: brightness(50%);
+    filter: brightness(75%);
+}
+
+.font-title{
+    /*font-family: impact, fantasy;*/
+    /*font-family: 'Merienda', cursive;*/
+    /*font-family: 'Annie Use Your Telescope', cursive;*/
+    /*font-family: 'Caveat Brush', cursive;*/
+    font-family: 'Zilla Slab Highlight', cursive;
+    /*font-family: lilly;*/
+    font-weight: bold;
+    font-size: 80px;
+}
+
+@font-face{
+    font-family: lilly;
+    src: url("/public/font/LillyBelle.ttf")format("truetype");
 }
 
