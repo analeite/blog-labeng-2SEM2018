@@ -10,6 +10,15 @@
     filter: brightness(75%);
 }
 
+.img-post{
+    width: 80%;
+    height: 40%;
+}
+
+/*.background{
+    background-color: #ffed80;
+}*/
+
 .font-title{
     /*font-family: impact, fantasy;*/
     /*font-family: 'Merienda', cursive;*/
