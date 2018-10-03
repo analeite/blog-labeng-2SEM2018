@@ -15,9 +15,11 @@
     height: 40%;
 }
 
-/*.background{
-    background-color: #ffed80;
-}*/
+.background{
+    background-color: #F8F8FF
+
+;
+}
 
 .font-title{
     /*font-family: impact, fantasy;*/
